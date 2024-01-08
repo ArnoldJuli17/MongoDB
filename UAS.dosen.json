@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "659b9e2e814d1e701762cc4b"
+  },
+  "id": 1,
+  "iddosen": 100,
+  "nama": "Putri",
+  "Homebase": "Informatika"
+},
+{
+  "_id": {
+    "$oid": "659b9e2e814d1e701762cc4c"
+  },
+  "id": 2,
+  "iddosen": 101,
+  "nama": "Putri Bangsa",
+  "Homebase": "T. Industri"
+},
+{
+  "_id": {
+    "$oid": "659b9e2e814d1e701762cc4d"
+  },
+  "id": 3,
+  "iddosen": 102,
+  "nama": "Eva Laura",
+  "Homebase": "Sistem Informasi"
+},
+{
+  "_id": {
+    "$oid": "659ba46e814d1e701762cc4f"
+  },
+  "id": 4,
+  "nama": "Putri",
+  "bidang": "Informatika",
+  "homebase": "Jakarta"
+},
+{
+  "_id": {
+    "$oid": "659ba46e814d1e701762cc50"
+  },
+  "id": 5,
+  "nama": "Bangsa",
+  "bidang": "Teknik Industri",
+  "homebase": "Bandung"
+},
+{
+  "_id": {
+    "$oid": "659ba46e814d1e701762cc51"
+  },
+  "id": 6,
+  "nama": "Citra",
+  "bidang": "Akuntansi",
+  "homebase": "Surabaya"
+},
+{
+  "_id": {
+    "$oid": "659ba46e814d1e701762cc52"
+  },
+  "id": 7,
+  "nama": "Dwi",
+  "bidang": "Kedokteran",
+  "homebase": "Yogyakarta"
+},
+{
+  "_id": {
+    "$oid": "659ba46e814d1e701762cc53"
+  },
+  "id": 8,
+  "nama": "Eka",
+  "bidang": "Hukum",
+  "homebase": "Medan"
+}]

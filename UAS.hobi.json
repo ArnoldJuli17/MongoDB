@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "659b981d814d1e701762cc3b"
+  },
+  "id": 1,
+  "idmhs": 1,
+  "hobi": "Traveling, music, games"
+},
+{
+  "_id": {
+    "$oid": "659b981d814d1e701762cc3c"
+  },
+  "id": 2,
+  "idmhs": 2,
+  "hobi": "Kuliner, memancing, traveling, games"
+},
+{
+  "_id": {
+    "$oid": "659ba8a2814d1e701762cc54"
+  },
+  "id": 3,
+  "idmhs": 3,
+  "hobi": [
+    "Membaca",
+    "Menulis",
+    "Bermain musik"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba8a2814d1e701762cc55"
+  },
+  "id": 4,
+  "idmhs": 4,
+  "hobi": [
+    "Olahraga",
+    "Menonton film",
+    "Berkebun"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba8a2814d1e701762cc56"
+  },
+  "id": 5,
+  "idmhs": 5,
+  "hobi": [
+    "Traveling",
+    "Memasak",
+    "Berkebun"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba8a2814d1e701762cc57"
+  },
+  "id": 6,
+  "idmhs": 6,
+  "hobi": [
+    "Olahraga",
+    "Bermain musik",
+    "Bermain game"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba8a2814d1e701762cc58"
+  },
+  "id": 7,
+  "idmhs": 7,
+  "hobi": [
+    "Membaca",
+    "Menulis",
+    "Berkebun"
+  ]
+}]
